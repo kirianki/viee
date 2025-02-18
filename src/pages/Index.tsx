@@ -102,7 +102,7 @@ const Index = () => {
             Our Story
           </h2>
           <p className="mt-6 text-lg text-gray-600">
-            At Sweet Delights Bakery, we believe in creating moments of joy through our carefully crafted
+            At Cakes by vee, we believe in creating moments of joy through our carefully crafted
             pastries. Each creation is made with love, using only the finest ingredients and traditional
             recipes passed down through generations.
           </p>
