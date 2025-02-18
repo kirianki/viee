@@ -18,7 +18,7 @@ export const ProductCard = ({ name, description, image, price }: ProductCardProp
     const waLink = `https://wa.me/254757923133?text=${message}`;
     const emailSubject = encodeURIComponent(`Order for ${name}`);
     const emailBody = encodeURIComponent(`Hello!\n\nI would like to order:\n${name} (${price})`);
-    const emailLink = `mailto:contact@sweetdelights.com?subject=${emailSubject}&body=${emailBody}`;
+    const emailLink = `mailto:vivianwanjiruwangui@gmail.com?subject=${emailSubject}&body=${emailBody}`;
 
     toast({
       title: "Choose how to place your order",
